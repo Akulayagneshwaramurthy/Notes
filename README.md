@@ -8,11 +8,11 @@ A simple web-based Notes application built using HTML, CSS, and JavaScript. User
 ✅ Responsive UI – Modern and smooth gradient background for an enhanced user experience.
 
 📸 Screenshots
-Home Page
+![Home Page](https://github.com/Akulayagneshwaramurthy/Notes/blob/master/Image-1.png?raw=true)
 
-Adding a Note
+![Adding a Note](https://github.com/Akulayagneshwaramurthy/Notes/blob/master/Image-2.png?raw=true)
 
-Editing a Note
+![Editing a Note](https://github.com/Akulayagneshwaramurthy/Notes/blob/master/Image-3.png?raw=true)
 
 ⚙️ Technologies Used
 HTML – Structure of the webpage
@@ -47,8 +47,10 @@ CSS – Styling for a smooth gradient UI.
 JavaScript – Functional logic for creating and deleting notes.
 
 📸 Screenshots
-🎨 UI Preview
-<!-- Replace with actual screenshot -->
+
+![create a Note](https://github.com/Akulayagneshwaramurthy/Notes/blob/master/Image-4.png?raw=true)
+
+![deleteg a Note](https://github.com/Akulayagneshwaramurthy/Notes/blob/master/Image-5.png?raw=true)
 
 🚀 Future Enhancements
 ✅ Add Local Storage support to save notes.
